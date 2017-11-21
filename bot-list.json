@@ -111,5 +111,12 @@
         "url": "/technical/@golos-chaingear/tss-token",
         "created": "2017-11-20T10:27:18",
         "timestamp": "2017-11-20T10:27:28.669Z"
+    },
+    {
+        "project": "xChange",
+        "author": "golos-chaingear",
+        "url": "/technical/@golos-chaingear/xchange",
+        "created": "2017-11-21T15:03:45",
+        "timestamp": "2017-11-21T15:03:58.929Z"
     }
 ]
