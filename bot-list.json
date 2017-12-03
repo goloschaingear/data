@@ -132,5 +132,12 @@
         "url": "/technical/@golos-chaingear/pangea",
         "created": "2017-12-03T12:23:27",
         "timestamp": "2017-12-03T12:23:37.384Z"
+    },
+    {
+        "project": "DCX",
+        "author": "golos-chaingear",
+        "url": "/technical/@golos-chaingear/dcx",
+        "created": "2017-12-03T12:28:36",
+        "timestamp": "2017-12-03T12:28:45.193Z"
     }
 ]
