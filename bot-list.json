@@ -139,5 +139,12 @@
         "url": "/technical/@golos-chaingear/dcx",
         "created": "2017-12-03T12:28:36",
         "timestamp": "2017-12-03T12:28:45.193Z"
+    },
+    {
+        "project": "AirToken",
+        "author": "golos-chaingear",
+        "url": "/technical/@golos-chaingear/airtoken",
+        "created": "2017-12-06T11:29:39",
+        "timestamp": "2017-12-06T11:29:45.921Z"
     }
 ]
