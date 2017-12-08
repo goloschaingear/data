@@ -146,5 +146,12 @@
         "url": "/technical/@golos-chaingear/airtoken",
         "created": "2017-12-06T11:29:39",
         "timestamp": "2017-12-06T11:29:45.921Z"
+    },
+    {
+        "project": "BitcoinGold",
+        "author": "golos-chaingear",
+        "url": "/technical/@golos-chaingear/bitcoin-gold",
+        "created": "2017-12-08T22:32:24",
+        "timestamp": "2017-12-08T22:32:32.210Z"
     }
 ]
