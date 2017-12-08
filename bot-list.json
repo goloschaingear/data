@@ -153,5 +153,12 @@
         "url": "/technical/@golos-chaingear/bitcoin-gold",
         "created": "2017-12-08T22:32:24",
         "timestamp": "2017-12-08T22:32:32.210Z"
+    },
+    {
+        "project": "BitcoinCash",
+        "author": "golos-chaingear",
+        "url": "/technical/@golos-chaingear/bitcoin-cash",
+        "created": "2017-12-08T22:42:21",
+        "timestamp": "2017-12-08T22:42:29.921Z"
     }
 ]
