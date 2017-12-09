@@ -160,5 +160,12 @@
         "url": "/technical/@golos-chaingear/bitcoin-cash",
         "created": "2017-12-08T22:42:21",
         "timestamp": "2017-12-08T22:42:29.921Z"
+    },
+    {
+        "project": "RaidenNetwork",
+        "author": "golos-chaingear",
+        "url": "/technical/@golos-chaingear/raiden-network",
+        "created": "2017-12-09T08:13:45",
+        "timestamp": "2017-12-09T08:13:51.848Z"
     }
 ]
